@@ -4,8 +4,8 @@ import ure
 import time
 
 # ---- WIFI ----
-ssid = "ThisSaysWithPulp"
-password = "0r@ng3ju1c3"
+ssid = "REDACTED"
+password = "REDACTED"
 
 wifi = network.WLAN(network.STA_IF)
 wifi.active(True)
